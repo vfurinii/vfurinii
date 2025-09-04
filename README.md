@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @vfurinii
-- 👀 I’m interested in technologies
-- 🌱 I’m currently learning Java and Zig
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in technologies and programming languages
+- 🌱 I’m currently learning Java 
+- 📫 How to reach me > vitorfurini@hotmail.com
 
 <!---
 vfurinii/vfurinii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
