@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vfurinii
 - 👀 I’m interested in technologies and programming languages
-- 🌱 I’m currently learning Java 
+- 🌱 I’m a Java developer and have almost 10 years of experience.
 - 📫 How to reach me > vitorfurini@hotmail.com / linkedin.com/in/vitor-furini/
 
 <!---
