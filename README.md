@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vfurinii
 - 🌱 I’m a Java developer and have almost 10 years of experience.
-- 📫 How to reach me > vitorfurini@hotmail.com / linkedin.com/in/vitor-furini/
+- 📫 How to reach me > vitorfurini@hotmail.com / [linkedin.com/in/vitor-furini/](https://www.linkedin.com/in/vitor-furini/)
 
 <!---
 vfurinii/vfurinii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
